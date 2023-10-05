@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-05T03:42:01 EET" name="Default suite" finished-at="2023-10-05T03:42:38 EET" duration-ms="36705">
+    <groups>
+    </groups>
+    <test started-at="2023-10-05T03:42:01 EET" name="Default test" finished-at="2023-10-05T03:42:38 EET" duration-ms="36705">
+      <class name="magentoTestsignUpLogin.SignupTestCasesClass">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:magentoTestsignUpLogin.SignupTestCasesClass@4a60ee36]" started-at="2023-10-05T03:42:09 EET" name="Setup" finished-at="2023-10-05T03:42:17 EET" duration-ms="8354" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="SignUp()[pri:0, instance:magentoTestsignUpLogin.SignupTestCasesClass@4a60ee36]" started-at="2023-10-05T03:42:17 EET" name="SignUp" finished-at="2023-10-05T03:42:27 EET" duration-ms="9940" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignUp -->
+        <test-method is-config="true" signature="PostTest()[pri:0, instance:magentoTestsignUpLogin.SignupTestCasesClass@4a60ee36]" started-at="2023-10-05T03:42:38 EET" name="PostTest" finished-at="2023-10-05T03:42:38 EET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PostTest -->
+      </class> <!-- magentoTestsignUpLogin.SignupTestCasesClass -->
+      <class name="magentoTestsignUpLogin.LoginTestCasesClass">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:magentoTestsignUpLogin.LoginTestCasesClass@7c8326a4]" started-at="2023-10-05T03:42:01 EET" name="Setup" finished-at="2023-10-05T03:42:09 EET" duration-ms="7704" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="Login()[pri:0, instance:magentoTestsignUpLogin.LoginTestCasesClass@7c8326a4]" started-at="2023-10-05T03:42:27 EET" name="Login" finished-at="2023-10-05T03:42:38 EET" duration-ms="10633" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="PostTest()[pri:0, instance:magentoTestsignUpLogin.LoginTestCasesClass@7c8326a4]" started-at="2023-10-05T03:42:38 EET" name="PostTest" finished-at="2023-10-05T03:42:38 EET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PostTest -->
+      </class> <!-- magentoTestsignUpLogin.LoginTestCasesClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
